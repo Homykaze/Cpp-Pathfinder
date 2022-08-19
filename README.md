@@ -1,0 +1,2 @@
+# Dijkstra's pathfinding algorithm implementation in C++
+Grid implementation of Dijsktra's algorithm (file 'pathfinderGrid') is my very first intuitive implementation of any kind of pathfinding algorithms, whereas the Graph implementation (file 'pathfinderGraph') is when I actually got to learn how Dijkstra's pathfinding algorithm works. The difference between two files is about half a year, within this period I got to learn the basics of STL and had a great practice using pointers with data structures.
